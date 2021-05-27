@@ -1,0 +1,12 @@
+C:\Users\Public\Projeler\ExaminationSystem\ExaminationSystem.Core\bin\Debug\net5.0\ExaminationSystem.Core.deps.json
+C:\Users\Public\Projeler\ExaminationSystem\ExaminationSystem.Core\bin\Debug\net5.0\ExaminationSystem.Core.dll
+C:\Users\Public\Projeler\ExaminationSystem\ExaminationSystem.Core\bin\Debug\net5.0\ref\ExaminationSystem.Core.dll
+C:\Users\Public\Projeler\ExaminationSystem\ExaminationSystem.Core\bin\Debug\net5.0\ExaminationSystem.Core.pdb
+C:\Users\Public\Projeler\ExaminationSystem\ExaminationSystem.Core\obj\Debug\net5.0\ExaminationSystem.Core.csprojAssemblyReference.cache
+C:\Users\Public\Projeler\ExaminationSystem\ExaminationSystem.Core\obj\Debug\net5.0\ExaminationSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Projeler\ExaminationSystem\ExaminationSystem.Core\obj\Debug\net5.0\ExaminationSystem.Core.AssemblyInfoInputs.cache
+C:\Users\Public\Projeler\ExaminationSystem\ExaminationSystem.Core\obj\Debug\net5.0\ExaminationSystem.Core.AssemblyInfo.cs
+C:\Users\Public\Projeler\ExaminationSystem\ExaminationSystem.Core\obj\Debug\net5.0\ExaminationSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\Public\Projeler\ExaminationSystem\ExaminationSystem.Core\obj\Debug\net5.0\ExaminationSystem.Core.dll
+C:\Users\Public\Projeler\ExaminationSystem\ExaminationSystem.Core\obj\Debug\net5.0\ref\ExaminationSystem.Core.dll
+C:\Users\Public\Projeler\ExaminationSystem\ExaminationSystem.Core\obj\Debug\net5.0\ExaminationSystem.Core.pdb

@@ -1,0 +1,15 @@
+C:\Users\Public\Projeler\ExaminationSystem\ExaminationSystem.Entities\bin\Debug\net5.0\ExaminationSystem.Entities.deps.json
+C:\Users\Public\Projeler\ExaminationSystem\ExaminationSystem.Entities\bin\Debug\net5.0\ExaminationSystem.Entities.dll
+C:\Users\Public\Projeler\ExaminationSystem\ExaminationSystem.Entities\bin\Debug\net5.0\ref\ExaminationSystem.Entities.dll
+C:\Users\Public\Projeler\ExaminationSystem\ExaminationSystem.Entities\bin\Debug\net5.0\ExaminationSystem.Entities.pdb
+C:\Users\Public\Projeler\ExaminationSystem\ExaminationSystem.Entities\bin\Debug\net5.0\ExaminationSystem.Core.dll
+C:\Users\Public\Projeler\ExaminationSystem\ExaminationSystem.Entities\bin\Debug\net5.0\ExaminationSystem.Core.pdb
+C:\Users\Public\Projeler\ExaminationSystem\ExaminationSystem.Entities\obj\Debug\net5.0\ExaminationSystem.Entities.csprojAssemblyReference.cache
+C:\Users\Public\Projeler\ExaminationSystem\ExaminationSystem.Entities\obj\Debug\net5.0\ExaminationSystem.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\Projeler\ExaminationSystem\ExaminationSystem.Entities\obj\Debug\net5.0\ExaminationSystem.Entities.AssemblyInfoInputs.cache
+C:\Users\Public\Projeler\ExaminationSystem\ExaminationSystem.Entities\obj\Debug\net5.0\ExaminationSystem.Entities.AssemblyInfo.cs
+C:\Users\Public\Projeler\ExaminationSystem\ExaminationSystem.Entities\obj\Debug\net5.0\ExaminationSystem.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Public\Projeler\ExaminationSystem\ExaminationSystem.Entities\obj\Debug\net5.0\ExaminationSystem.Entities.csproj.CopyComplete
+C:\Users\Public\Projeler\ExaminationSystem\ExaminationSystem.Entities\obj\Debug\net5.0\ExaminationSystem.Entities.dll
+C:\Users\Public\Projeler\ExaminationSystem\ExaminationSystem.Entities\obj\Debug\net5.0\ref\ExaminationSystem.Entities.dll
+C:\Users\Public\Projeler\ExaminationSystem\ExaminationSystem.Entities\obj\Debug\net5.0\ExaminationSystem.Entities.pdb
